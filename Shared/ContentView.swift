@@ -45,7 +45,7 @@ struct ContentView: View {
                 }.padding()
                     .frame(maxWidth: .infinity)
                     
-                Button("/"){
+                Button("//"){
                     
                 }.padding(.vertical, 40)
                 .frame(maxWidth: .infinity)
